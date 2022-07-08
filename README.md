@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sujeet Raj</h1>
 <h3 align="center">I am a Full Stack Developer</h3>
-<img align="center" alt="coding" width="400" src="C:\Users\ASUS\Downloads\dsff.jpg">
+<img align="center" alt="coding" width="400" src="https://www.dreamstime.com/web-development-coding-programming-internet-technology-business-concept-web-development-coding-programming-internet-technology-image121903546">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sujeetrajhub&label=Profile%20views&color=0e75b6&style=flat" alt="sujeetrajhub" /> </p>
 
