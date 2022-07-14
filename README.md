@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sujeet Raj</h1>
 <h3 align="center">I am a Full Stack Developer</h3>
 
-<p align="left"> <img src="https://thumbs.dreamstime.com/b/web-development-coding-programming-internet-technology-business-concept-web-development-coding-programming-internet-technology-121903546.jpg" alt="sujeetrajhub" /> </p>
+<p align="center"> <img src="https://thumbs.dreamstime.com/b/web-development-coding-programming-internet-technology-business-concept-web-development-coding-programming-internet-technology-121903546.jpg" alt="image" /> </p>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sujeetrajhub&label=Profile%20views&color=0e75b6&style=flat" alt="sujeetrajhub" /> </p>
