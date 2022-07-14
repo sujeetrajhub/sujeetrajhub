@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sujeet Raj</h1>
 <h3 align="center">I am a Full Stack Developer</h3>
 
-<p align="left"> <img src="[[[https://komarev.com/ghpvc/?username=sujeetrajhub&label=Profile%20views&color=0e75b6&style=flat](https://www.google.com/search?q=web+development+images&sxsrf=ALiCzsadXnYzhwPBwcZh0l62h7W7ivIyzg:1657802867435&tbm=isch&source=iu&ictx=1&vet=1&fir=j7dARnil0Ihm3M%252CWMU_OKkhVBSbyM%252C_%253BTVrdVKMmJfAX2M%252CssXg0Fc33WrZSM%252C_%253BnjSGBceeB0LZ7M%252C-yYrcznd33w39M%252C_%253B-WB90yCNVcbw-M%252CANA8KfhDgWpE0M%252C_%253BRIm5RegJhjCS9M%252C-yYrcznd33w39M%252C_%253BoA9ZWDjTkuBSZM%252CLAkqQ_zbiVBywM%252C_%253BFfn7Zsyd3vL98M%252CrKX1KLZLB8LpBM%252C_%253BpnS6XMg_XA6JGM%252CQMUUpIJ5LJP7iM%252C_%253B-k8lSrJiUuY-gM%252Cn1McJ2P9StWrXM%252C_%253B1SDBNRs98Vf_fM%252COX-Z7pBWSLh5fM%252C_%253BeWGIOZB-5UCFZM%252CWMU_OKkhVBSbyM%252C_%253B1V2cUs9XZp_hxM%252CssXg0Fc33WrZSM%252C_%253B8HEL88tQp5eWRM%252C1igHYBe050wgsM%252C_&usg=AI4_-kQ-PB0qjLD7X474cDcUCzhRXaEXdA&sa=X&ved=2ahUKEwjNj5X4tPj4AhVATWwGHflaAoQQ9QF6BAgEEAE#imgrc=j7dARnil0Ihm3M)"](https://www.dreamstime.com/photos-images/web-development.html)](https://thumbs.dreamstime.com/b/web-development-coding-programming-internet-technology-business-concept-web-development-coding-programming-internet-technology-121903546.jpg) alt="sujeetrajhub" /> </p>
+<p align="left"> <img src="https://thumbs.dreamstime.com/b/web-development-coding-programming-internet-technology-business-concept-web-development-coding-programming-internet-technology-121903546.jpg" alt="sujeetrajhub" /> </p>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sujeetrajhub&label=Profile%20views&color=0e75b6&style=flat" alt="sujeetrajhub" /> </p>
